@@ -1,5 +1,5 @@
 # first-repo
-trying to solve conflicts in push
+Trying to solve conflicts in push
 
 Steps-
 1. first fetch
